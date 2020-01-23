@@ -1,2 +1,2 @@
-include ':app', ':routing', ':onboarding'
+include ':app', ':routing', ':onboarding', ':auth'
 rootProject.name='DemoModuleRouting'

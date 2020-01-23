@@ -1,4 +1,4 @@
-package com.pratama.routing
+package com.pratama.auth
 
 import org.junit.Test
 

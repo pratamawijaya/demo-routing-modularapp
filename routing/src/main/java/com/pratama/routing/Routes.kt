@@ -4,4 +4,5 @@ import com.github.florent37.navigator.Route
 
 object Routes {
     object Onboard : Route("/")
+    object Auth : Route("/auth")
 }
