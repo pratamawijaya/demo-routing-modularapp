@@ -3,6 +3,10 @@
     package="com.pratama.onboarding">
 
     <application>
+        <provider
+            android:name=".OnboardRouteProvider"
+            android:authorities="com.pratama.onboarding.OnboardRouteProvider" />
+
         <activity android:name=".OnboardingActivity"></activity>
     </application>
 
